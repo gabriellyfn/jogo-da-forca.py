@@ -1,6 +1,6 @@
 # 🪢 Jogo da Forca – Python
 
-Este projeto é uma implementação simples e divertida do clássico **Jogo da Forca**, desenvolvida em Python. O objetivo é adivinhar uma palavra secreta sorteada aleatoriamente antes que as tentativas acabem.
+Em homenagem ao meu amor pelos games, pensei em desenvolver esse joguinho simples em python, que é uma implementação simples e divertida do clássico **Jogo da Forca**. O objetivo é adivinhar uma palavra secreta sorteada aleatoriamente antes que as tentativas acabem.
 
 ---
 
